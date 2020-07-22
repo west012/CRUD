@@ -1,4 +1,6 @@
 # Creating Simple CRUD App
+## Dispcription:
+This is my first app using utilizing AWS. This includes a Postgres database on RDS.
 ## Directions
 Initialize node/package json:
     * npm init -y
